@@ -1,0 +1,2 @@
+# EV-Adoption-Readiness-Barrier-Analysis-Pune-Maharashtra-2025-
+This project analyzes electric vehicle (EV) adoption readiness among residents of Pune, Maharashtra, by combining secondary market research with primary survey data. The objective was to identify key factors influencing EV purchase decisions, evaluate awareness of government incentives, and uncover barriers preventing wider EV adoption.
